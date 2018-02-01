@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{4354FDF5-348D-4737-8CC4-94CEE6E9E25B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Naive_Guassian", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{4354FDF5-348D-4737-8CC4-94CEE6E9E25B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
